@@ -1,0 +1,6 @@
+laptop,electronic,1200,3,1
+mobile,electronics,600,2,1
+iphone 13 pro max,electronics,800,2,0
+mobile,electronic,800,3,1
+dell,electronics,1200,3,1
+iphone 13,electronics,800,2,1
